@@ -1,4 +1,4 @@
 Belajar Git dan Github
 1. Git adalah Version Control System yang digunakan untuk mengelola perubahan dari source code dari waktu ke waktu
 2. Guthub adalah VCS dalam bentuk GIT web dimana kita dapat mengelola file atau source code secara online
-Repository, branch, merge, pull, push, commit
+Repository, branch, merge, pull, push, commit, hash atau kode dari perubahan file/source code
